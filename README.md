@@ -5,6 +5,8 @@ Calamity.vip For Everyone is a project aimed at providing Calamity.vip to everyo
 
 I forgor to mention it's outdated, so the only way you can use it is by bytepatching and hex editing 💀. You could still probably get this working faster than it being officially released (lol) altough i cant see why anyone would bother
 
+Currently working on getting source ;)
+
 Credits: 
 Cat,
 Color (cool person),
