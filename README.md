@@ -10,7 +10,5 @@ Currently working on getting source ;)
 Credits: 
 Cat,
 Color (cool person),
-Ghibi (drug abuser)
-
-Note: 
-cat, no hate to you, if you do somehow find this repo and want it taken down, dm me on discord and we can get things sorted out, since im not trying to get into trouble or anything 👍
+Ghibi (drug abuser),
+Zyx (drug abuser 2)
