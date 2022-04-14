@@ -1,6 +1,6 @@
 # calamity-vip-for-everyone
 ![calamity rip](https://user-images.githubusercontent.com/100206545/163003839-70ee9a92-201a-4ebc-8cd0-9208eb9f85a4.png)
-![Untitled](https://user-images.githubusercontent.com/100206545/163390280-4aa29598-ba93-4e60-8c10-43f85021ac37.png)
+![Untitled](https://user-images.githubusercontent.com/100206545/163390847-b58dfc14-f740-4e12-8af4-0b368616e8fa.png)
 
 Calamity.vip For Everyone is a project aimed at providing Calamity.vip to everyone no waiting for cat to release involved.
 
